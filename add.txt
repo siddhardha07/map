@@ -1,1 +1,1 @@
-hello surendra
+01 ==> (squares of all numbers) write a function that takes a list of numbers and returns squares of all numbers
