@@ -1,1 +1,3 @@
 01 ==> (squares of all numbers) write a function that takes a list of numbers and returns squares of all numbers
+02 ==> (square roots of all numbers)write a function that takes a list of numbers and returns square root of all numbers
+02 ==> (square roots of all numbers)write a function that takes a list of numbers and returns square root of all numbers
